@@ -5,6 +5,7 @@ Hint:
     - Installer l'extension Python
 - Installer Git: https://git-scm.com/
 - Faire 10-15 challenge de https://edabit.com/challenges
+- Python Cheatsheet https://learnxinyminutes.com/docs/python3/
 
 Delivrable:
 - Rien; on le fait ensemble :)
