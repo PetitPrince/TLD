@@ -22,6 +22,7 @@ Hint:
     - Ce que conseille Github: https://try.github.io/
     - Vous avez merdé quelque chose: https://ohshitgit.com/
     - Procédures standards: https://github.com/k88hudson/git-flight-rules
+    - Client graphique pour Git: https://desktop.github.com/
 
 Delivrable:
 - Rien; on le fait ensemble :)
