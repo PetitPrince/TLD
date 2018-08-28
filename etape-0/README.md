@@ -20,6 +20,7 @@ Hint:
         - OSX: Ouvrir un terminal (Spotlight (ou le dossier Applications) > Terminal), puis naviger vers le fichier .py (avec `ls` et `cd`) puis executer le fichier avec `python3 mon_fichier.py`.
 - Apprendre un peu Git
     - Ce que conseille Github: https://try.github.io/
+        - Je conseiller de faire le tutorial Learn Git Branching qui possède beaucoup de schéma très instructif et de méthode pas-à-pas. Ça ne correspond pas 100% à la réalité (et l'auteur le sait) mais c'est à mon avis un des moyens de l'apprendre. En particulier, les niveaux "Introduction Sequence" et "Ramping Up" sont essentiels, ainsi que les niveaux de "Push & Pull -- Git Remotes!" (onglet en haut dans le selecteur de niveau): https://learngitbranching.js.org/
     - Vous avez merdé quelque chose: https://ohshitgit.com/
     - Procédures standards: https://github.com/k88hudson/git-flight-rules
     - Client graphique pour Git: https://desktop.github.com/
