@@ -18,7 +18,10 @@ Hint:
     - Executer un fichier .py avec le terminal. Note: pour afficher quelque chose dans le terminal, il faut utiliser la fonction `print(my_string)`
         - Windows: Ouvrir un terminal (Menu démarrer > Cmd ou Powershell), puis naviger vers le fichier .py (avec `dir` (ou `ls` si on utilise Powershell) et `cd`) puis executer le fichier avec `python mon_fichier.py`.
         - OSX: Ouvrir un terminal (Spotlight (ou le dossier Applications) > Terminal), puis naviger vers le fichier .py (avec `ls` et `cd`) puis executer le fichier avec `python3 mon_fichier.py`.
-
+- Apprendre un peu Git
+    - Ce que conseille Github: https://try.github.io/
+    - Vous avez merdé quelque chose: https://ohshitgit.com/
+    - Procédures standards: https://github.com/k88hudson/git-flight-rules
 
 Delivrable:
 - Rien; on le fait ensemble :)
