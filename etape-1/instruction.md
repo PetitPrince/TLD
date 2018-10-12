@@ -5,4 +5,4 @@
 5. Cliquer de manière complètement aléatoire sur un des sous-titre proposé.
 6. Cliquer sur le bouton télécharger.
 7. Enregistrer le fichier quelque part.
-8. Décompresser le fichier .srt quelque part.
+8. Dézipper le fichier .srt quelque part.
